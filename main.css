@@ -1,0 +1,11 @@
+a{
+    font-family: 'Krona One', sans-serif;
+}
+
+#metro-portada{
+  background: url(http://www.radioformula.com.mx/images/notas/notas_201802/20180202_14_28_metro1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:#fff;
+}
