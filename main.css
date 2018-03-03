@@ -1,5 +1,13 @@
 a{
     font-family: 'Krona One', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline !important;
+  color: black;
+
 }
 
 #metro-portada{
@@ -8,4 +16,27 @@ a{
   background-repeat: no-repeat;
   background-size: cover;
   color:#fff;
+  margin: 0;
+
+}
+
+
+#fondo-header{
+  background: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Agricolaoriental.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:#fff;
+  margin: 0;
+
+
+}
+
+#barra-nav{
+background-color: #fff!important;
+color: black !important;
+}
+
+#tamano-linea-a{
+  font-size: 25px;
 }
