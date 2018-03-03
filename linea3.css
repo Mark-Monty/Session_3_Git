@@ -27,3 +27,14 @@
     widows: 30px;
     height: 30px;
 }
+
+.badge-pink {
+    background-color: #F54A91;
+    color: #fff;
+}
+
+.footer-bottom {
+	background: #E3E3E3;
+	border-top: 1px solid #DDDDDD;
+    padding: 10px 0;
+}
