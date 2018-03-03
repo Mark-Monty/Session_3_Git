@@ -1,0 +1,29 @@
+#metro-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.bg-metro {
+    background-color: #f79239;
+}
+
+#line-header {
+    background-color: #AE9D27;
+}
+
+#linea3-jumbo {
+    background: linear-gradient(rgba(174, 156, 39, 0.6), rgba(174, 156, 39, 0.6)), url('http://image.posta.com.mx/sites/default/files/trenvas3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.linea3-mini-icon {
+    vertical-align: initial;
+}
+
+.linea-icon {
+    widows: 30px;
+    height: 30px;
+}
