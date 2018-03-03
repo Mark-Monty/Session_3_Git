@@ -1,0 +1,33 @@
+#metro_cover{
+	
+	background-image: url("https://megalopolismx.com/images/noticias/201612/metro-cdmx-tendra-trenes-con-pilotaje-automatico-en-la-linea-1.jpg");
+	color: #FFFFFF;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.azu{
+	background-color: #0F73F4
+}
+
+a{
+	font-family: 'Krona one',sans-serif; 
+}
+.btn.btn-outline-success:hover{
+	color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0,16,255,.5);
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+    width: 30%;
+}
+.list-group-item.list-group-item-action{
+	text-align: center;
+}
